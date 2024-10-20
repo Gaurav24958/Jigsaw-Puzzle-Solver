@@ -8,7 +8,7 @@ A deep learning and permutation learning based jigsaw puzzle solver.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/VenkateshSoni/Jigsaw-puzzle-solver.git
+   git clone https://github.com/Gaurav24958/Jigsaw-Puzzle-Solver.git
    ```
 
 2. Navigate to the project directory:
