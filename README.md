@@ -1,8 +1,5 @@
 # Jigsaw Puzzle Solver using Deep Learning
 A deep learning and permutation learning based jigsaw puzzle solver.
-
-### Try the streamlit app: https://jigsaw-puzzle-solver.streamlit.app/
-
 ## Installation
 
 1. Clone the repository:
